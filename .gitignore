@@ -1,0 +1,10 @@
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+signing/
+shots/
+shots-v12/
+shots-v13/
+*.apk
